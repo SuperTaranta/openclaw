@@ -7185,6 +7185,14 @@
       ]
     },
     {
+      "locale": "de",
+      "source": "Reconnecting…",
+      "translations": [
+        "Erneut verbinden…",
+        "Verbindung wird wiederhergestellt…"
+      ]
+    },
+    {
       "locale": "hi",
       "source": "Reconnecting…",
       "translations": [
@@ -7197,7 +7205,8 @@
       "source": "Reconnecting…",
       "translations": [
         "Menghubungkan kembali…",
-        "Menghubungkan ulang…"
+        "Menghubungkan ulang…",
+        "Menyambungkan kembali…"
       ]
     },
     {
